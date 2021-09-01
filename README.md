@@ -66,24 +66,10 @@ Akses halaman instalasi atau pemasangan.
 http://yourdomainroot/_install.php
 ```
 
-## 📲 Aplikasi Android atau IOS
-
-Untuk anda yang menginginkan aplikasi Android atau IOS build manual bisa hubungi kami langsung :
-- Email : onyetcorp@gmail.com
-- Whatsapp : +6282221874400
-- Telegram : +6282221874400
-
-Pada vesi android ada beberapa fitur tambahan seperti :
-- Melihat Dokumen MS.office, PDF, Gambar secara langsung
-- Mencegah perekaman atau penangkapan layar
-
 ## 🧨 Kerentanan Aplikasi
 
 Jika anda mendapati bahwa aplikasi ini memeiliki kerentanan keamanan atau ada fungsi yang tidak berkerja dengan optimal maka anda bisa membuat issue pada repositori ini.
 
-## 👑 Donasi
-
-Silahkan cek halaman github kami [disini.](https://github.com/onyet)
 
 ## 🎁 Kontribusi
 
