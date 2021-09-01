@@ -5,19 +5,19 @@ Onyet CBT with native PHP 7.X is deprecated. Furthermore, the Onyet CBT version 
 
 ## 🎊 Tentang OnyetCBT
 
-OnyetCBT adalah Aplikasi opensource yang diperuntukan untuk instansi seperti sekolah, madrasah, ataupun yang lain, OnyetCBT ini biasa digunakan untuk PTS/PAS/USBN/SIMULASI UNBK. Aplikasi ini bersumber dari [CandyCBT](https://cbtcandy.com) yang dikembangkan kembali guna keperluan lebih lanjut. Aplikasi ini masih bersifat Open Source dengan lisensi MIT atau harap jangan menghilangkan nama yang sudah berkontribusi dalam pembuatan dan pengembangan aplikasi ini.
+OnyetCBT adalah Aplikasi opensource yang diperuntukan untuk instansi seperti sekolah, madrasah, ataupun yang lain, OnyetCBT ini biasa digunakan untuk PTS/PAS/USBN/SIMULASI UNBK. Aplikasi ini kembali guna keperluan lebih lanjut. Aplikasi ini masih bersifat Open Source dengan lisensi MIT atau harap jangan menghilangkan nama yang sudah berkontribusi dalam pembuatan dan pengembangan aplikasi ini.
 
 Fitur OnyetCBT:
 
-- [Responsive - Bootstrap 3](https://getbootstrap.com/docs/3.3).
-- [Pengelolaan Mudah](https://shareku.net).
-- [3 Jenjang Pendidikan](https://shareku.net).
-- [Role : Admin, Guru, Pengawas, Proktor, Siswa](https://shareku.net).
-- [Pengumuman](https://shareku.net)
-- [E-Learning, Tugas dan Komentar](https://shareku.net)
-- [Absen Harian](https://shareku.net)
-- [Meeting Room](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-start)
-- [Aplikasi Android - Harap kontak kami](mailto:onyet@shareku.net)
+- [Responsive - Bootstrap 3]
+- [Pengelolaan Mudah]
+- [3 Jenjang Pendidikan]
+- [Role : Admin, Guru, Pengawas, Proktor, Siswa]
+- [Pengumuman]
+- [E-Learning, Tugas dan Komentar]
+- [Absen Harian]
+- [Meeting Room]
+- [Aplikasi Android - Harap kontak kami]
 
 ## 🛠 Requirement
 
